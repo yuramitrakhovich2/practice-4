@@ -1,0 +1,6 @@
+include ':loader_task'
+include ':loadermanager'
+include ':looper'
+include ':data_thread'
+include ':thread'
+rootProject.name = "ru.mirea.mitrakhovich.practice4"
